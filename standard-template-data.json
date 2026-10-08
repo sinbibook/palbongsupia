@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-10-08T05:14:28.111103Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-10-08T05:19:17.104219165Z",
     "templateType": "trip_e",
     "propertyId": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "homepageId": "01a11957-2860-7b38-b175-fb8159cd8751"
@@ -1706,8 +1706,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "01a11988-720d-7bf6-924d-ff8e8f009c8d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/layout_map_about/1791429734036-naumrzufrs.jpg",
+                    "id": "01a119f3-92c1-7097-8a91-3cea045501b5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/layout_map_about/1791436754736-50x4a6bzbr.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,

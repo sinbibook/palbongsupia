@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-10-08T03:40:22.412402615Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-10-08T03:49:56.459488787Z",
     "templateType": "trip_e",
     "propertyId": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "homepageId": "01a11957-2860-7b38-b175-fb8159cd8751"
@@ -548,9 +548,17 @@
         "displayOrder": 7,
         "images": [
           {
+            "id": "01a1199f-973e-7e54-95ad-c88e3f353bde",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a111d3-9fb1-70d7-81ec-cfda753a4c7f/main/1791431251354-v2ihon7mqm.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "01a11956-603e-7d45-a7ec-7734bec534ac",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a111d3-9fb1-70d7-81ec-cfda753a4c7f/main/1791426453314-eoq18vjxqs.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -558,7 +566,7 @@
           {
             "id": "01a11956-6118-7ecd-9ac1-44c4c343b58c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a111d3-9fb1-70d7-81ec-cfda753a4c7f/main/1791426453314-gmve2z1yhz.jpg",
-            "sortOrder": 1,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -566,7 +574,7 @@
           {
             "id": "01a11956-6113-7817-bb32-cb4ca625ea4c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a111d3-9fb1-70d7-81ec-cfda753a4c7f/main/1791426453314-x9udjmg6xm.jpg",
-            "sortOrder": 2,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -574,7 +582,7 @@
           {
             "id": "01a11956-618b-73b5-a30b-b1a14edc9b15",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a111d3-9fb1-70d7-81ec-cfda753a4c7f/main/1791426453315-njrsi125ce.jpg",
-            "sortOrder": 3,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -582,7 +590,7 @@
           {
             "id": "01a11956-60b6-706e-9630-f59c6ff6039b",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a111d3-9fb1-70d7-81ec-cfda753a4c7f/main/1791426453315-wf5ddwcrxq.jpg",
-            "sortOrder": 4,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1230,7 +1238,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "자연 가까이, 함께 쉬어가는 곳",
                 "images": [
                   {
                     "id": "01a1197c-d7d2-7eea-a4d9-c7b1a3152e65",
@@ -1339,7 +1347,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "A Stay Close to Nature\n"
               },
               "closing": {
                 "title": "Where the Day Slows Down",

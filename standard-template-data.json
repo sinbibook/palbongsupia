@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-10-08T03:20:38.549998639Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-10-08T03:22:16.887811574Z",
     "templateType": "trip_e",
     "propertyId": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "homepageId": "01a11957-2860-7b38-b175-fb8159cd8751"
@@ -9,7 +9,7 @@
   "property": {
     "id": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "name": "홍천 팔봉수피아 애견동반 펜션",
-    "nameEn": "Hongcheon Palbong Supia Pet-Friendly Pen",
+    "nameEn": "Hongcheon Palbong Supia Pet-Friendly Pension",
     "description": "홍천 팔봉수피아는 2000평 규모의 애견동반 펜션으로, 불멍, 바베큐, 캠핑, 수영장 다양한 부대시설과 온전한 힐링을 누릴 수 있습니다.",
     "subtitle": "",
     "address": "강원특별자치도 홍천군 서면 오도치길 249 홍천 팔봉수피아 펜션",
@@ -1664,15 +1664,33 @@
             {
               "hero": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a11988-703e-7e84-983e-b0f4acc2423b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/layout_map_hero/1791429734037-0yfarja3jc.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
               "about": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a11988-720d-7bf6-924d-ff8e8f009c8d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/layout_map_about/1791429734036-naumrzufrs.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "description": ""
               },
-              "enabled": false
+              "enabled": true
             }
           ]
         },
@@ -1829,7 +1847,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "Hongcheon Palbong Supia Pet-Friendly Pen"
+        "nameEn": "Hongcheon Palbong Supia Pet-Friendly Pension"
       },
       "roomtypes": [
         {

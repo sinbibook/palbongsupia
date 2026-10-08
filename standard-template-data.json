@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-10-08T03:31:47.307225099Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-10-08T03:32:37.269883039Z",
     "templateType": "trip_e",
     "propertyId": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "homepageId": "01a11957-2860-7b38-b175-fb8159cd8751"
@@ -1371,7 +1371,7 @@
                     "id": "01a11980-7eeb-7174-b1b6-5babbdcb3ee4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/index_essence/1791429213541-yj8ch8smri.jpg",
                     "sortOrder": 2,
-                    "description": "초록을 곁에 둔 시간",
+                    "description": "햇빛 아래 시원한 물놀이",
                     "isSelected": true,
                     "blockId": null
                   },

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-10-08T03:13:35.608254062Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-10-08T03:16:52.946289120Z",
     "templateType": "trip_e",
     "propertyId": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "homepageId": "01a11957-2860-7b38-b175-fb8159cd8751"
@@ -1333,11 +1333,20 @@
                 "description": ""
               },
               "closing": {
-                "title": "",
-                "images": [ ],
+                "title": "Where the Day Slows Down",
+                "images": [
+                  {
+                    "id": "01a11983-823d-7d7b-81ff-748612498697",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/index_closing/1791429411054-1fp7bzkj25.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "초록 풍경을 바라보며 잠시 걸음을 늦춰보세요.\n함께 걷고, 이야기를 나누고, 편안히 쉬는 사이\n하루가 조금 더 느긋해집니다."
               },
               "essence": {
                 "title": "",

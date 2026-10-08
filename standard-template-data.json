@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-10-08T03:28:27.747980132Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-10-08T03:31:47.307225099Z",
     "templateType": "trip_e",
     "propertyId": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "homepageId": "01a11957-2860-7b38-b175-fb8159cd8751"
@@ -1336,8 +1336,8 @@
                 "title": "Where the Day Slows Down",
                 "images": [
                   {
-                    "id": "01a11983-823d-7d7b-81ff-748612498697",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/index_closing/1791429411054-1fp7bzkj25.jpg",
+                    "id": "01a11991-2807-7a9c-8abf-ccc3ce21e334",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/index_closing/1791430305531-7zm02x02cw.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,

@@ -41,6 +41,11 @@ body{font-size:0.81em}
 #shGnb.on .sh_logo .logo-pc {display:none;}
 #shGnb.on .sh_logo .logo-m {display:block;}
 
+/* 헤더 주입 직후 ~ 매퍼가 src 를 넣기 전까지는 src 없는 <img> 가
+   깨진 이미지 아이콘 + alt("로고") 로 깜박이므로 숨긴다 */
+img[data-logo]:not([src]),
+img[data-logo][src=""] {visibility:hidden;}
+
 /* 메뉴 오픈(#shGnb.on) 시 로고도 대메뉴 텍스트와 동일하게 secondary 색으로 전환.
    업체별 컬러 로고 파일이 따로 없으므로, 로고 이미지의 알파를 mask 로 써서
    --color-secondary 를 칠한다. --logo-src / data-logo-ready 는 header-footer-mapper 가 주입 */

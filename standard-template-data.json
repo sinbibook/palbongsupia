@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.34.0",
-    "generatedAt": "2026-10-08T09:30:01.213134953Z",
+    "version": "1.35.0",
+    "generatedAt": "2026-10-12T00:36:08.919534601Z",
     "templateType": "trip_e",
     "propertyId": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "homepageId": "01a11957-2860-7b38-b175-fb8159cd8751"
@@ -1508,9 +1508,25 @@
                     "blockId": null
                   },
                   {
+                    "id": "01a12d89-ba9a-7953-a27e-ead7b02a381f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/main_hero/1791765362422-shw6xdck31.jpg",
+                    "sortOrder": 6,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a12d89-ba5a-72c8-a70c-c73656caa9d8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/main_hero/1791765362302-ag0usmjilm.jpg",
+                    "sortOrder": 7,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "01a11986-6194-7925-9f01-d387b1c33fd1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/main_hero/1791429598797-dc5gdur1ib.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 8,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1518,7 +1534,7 @@
                   {
                     "id": "01a11986-6076-74ae-9376-ef44ebacbcb5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/main_hero/1791429598801-x9vut3yf1r.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 9,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1526,7 +1542,7 @@
                   {
                     "id": "01a11986-611c-7ec1-ae62-b0b59ea8a687",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/main_hero/1791429598802-2tmimew37x.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 10,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1534,7 +1550,7 @@
                   {
                     "id": "01a11986-60de-7b00-8b90-a6371dac8e5a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/main_hero/1791429598801-qx18qg0d6a.jpg",
-                    "sortOrder": 9,
+                    "sortOrder": 11,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1542,7 +1558,7 @@
                   {
                     "id": "01a11986-6123-75c6-bcb7-60951ad0eb7b",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/main_hero/1791429598802-571lm1m6ll.jpg",
-                    "sortOrder": 10,
+                    "sortOrder": 12,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1550,7 +1566,7 @@
                   {
                     "id": "01a11986-6124-7f24-85df-93d8162032c5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/main_hero/1791429598802-mx67ava8wh.jpg",
-                    "sortOrder": 11,
+                    "sortOrder": 13,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1558,7 +1574,7 @@
                   {
                     "id": "01a11986-611b-73a1-9133-a58a474414cc",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/main_hero/1791429598803-bfua2ro5w4.jpg",
-                    "sortOrder": 12,
+                    "sortOrder": 14,
                     "description": "",
                     "isSelected": true,
                     "blockId": null

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.48.0",
-    "generatedAt": "2026-10-16T11:18:17.931635770Z",
+    "version": "1.49.0",
+    "generatedAt": "2026-10-16T11:20:04.833812904Z",
     "templateType": "trip_e",
     "propertyId": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "homepageId": "01a11957-2860-7b38-b175-fb8159cd8751"
@@ -2986,7 +2986,7 @@
             ],
             "slider": false,
             "videos": [ ],
-            "enabled": true,
+            "enabled": false,
             "endDate": "2026-11-30",
             "sortOrder": 0,
             "startDate": "2026-10-16",

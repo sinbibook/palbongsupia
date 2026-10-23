@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.53.0",
-    "generatedAt": "2026-10-23T03:23:29.829236405Z",
+    "version": "1.54.0",
+    "generatedAt": "2026-10-23T06:53:16.677555327Z",
     "templateType": "trip_e",
     "propertyId": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "homepageId": "01a11957-2860-7b38-b175-fb8159cd8751"
@@ -756,6 +756,14 @@
             "id": "01a1366c-ead2-77cf-8716-ca1a855e9015",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/FTtQDy7Rb1UZ.jpg",
             "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a16788-3117-7dfb-ab2e-67de9044d8ba",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/4c232afe-8056-4cb5-a7da-dce8c344554a/exterior/1792738340723-l4s0xu6id9.jpg",
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -3129,6 +3137,15 @@
             "id": "01a11979-18d8-7bad-b863-1b98404444ad",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/property_exterior/1791428726608-jt38z1qpfy.jpg",
             "sortOrder": 12,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "01a16789-0415-7deb-a068-67297d399400",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a11957-2860-7b38-b175-fb8159cd8751/property_exterior/1792738394829-5gxg0livun.jpg",
+            "sortOrder": 13,
             "description": "",
             "isSelected": true,
             "blockId": null,

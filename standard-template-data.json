@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.59.0",
-    "generatedAt": "2026-10-23T07:00:03.516957642Z",
+    "version": "1.60.0",
+    "generatedAt": "2026-10-23T07:05:19.568930682Z",
     "templateType": "trip_e",
     "propertyId": "4c232afe-8056-4cb5-a7da-dce8c344554a",
     "homepageId": "01a11957-2860-7b38-b175-fb8159cd8751"
@@ -354,57 +354,49 @@
         "displayOrder": 5,
         "images": [
           {
-            "id": "01a11956-64c6-77d8-a434-537e0f8e4507",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1791426454468-yyeynxpjc5.JPG",
+            "id": "01a16791-d62d-7e32-b280-244b47431080",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1792738972790-w7tz4nf05u.JPG",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a11956-652a-7a4d-90d1-bf5c1cb1dd9f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1791426454468-ae3olp3j6k.jpg",
+            "id": "01a16791-d730-7adf-ab9e-25709eeb08cf",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1792738972792-3vhosxnre1.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a11956-652f-7cdb-881d-28af41364291",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1791426454468-4mthp9cjve.jpg",
+            "id": "01a16791-d666-7b4f-9d33-6bbf34f6c485",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1792738972796-12jho6cx59.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a11956-652f-720e-87b6-a272e7afa1f2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1791426454469-2jlkz3cikj.jpg",
+            "id": "01a16791-d763-71db-a83d-17b83ddf88b8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1792738972790-hs38wvtr5p.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a11956-65cb-7930-9853-fda909034886",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1791426454470-r6h3odjn6r.jpg",
+            "id": "01a16791-d661-77b5-8924-5a36dd1fcbfc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1792738972799-ukd3zqp3wk.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "01a1678b-0a15-7b20-920d-923c72e0c28a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1792738526837-c8zzfegczf.jpg",
+            "id": "01a16791-d6c7-7a83-ac2c-c7feb9afce8a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1792738972798-lzxufepihp.jpg",
             "sortOrder": 5,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a1678b-0994-772a-a8b7-e57797f06545",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a11956-4c1e-775f-8476-15dfb6eb72f6/main/1792738526842-h6fsgo6kne.jpg",
-            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -673,7 +665,7 @@
           {
             "id": "01a1366c-ead0-7099-b913-f665c7c03d0a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/dtfCAGJKhUY9.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -683,7 +675,7 @@
           {
             "id": "01a1366c-ead1-7e7a-bfb5-9f7c1c530519",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/SYcEwQ3q5KuN.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -691,7 +683,7 @@
           {
             "id": "01a1366c-ead2-7002-b19b-10b28f000e1a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/TR3KbifZLoH6.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -699,7 +691,7 @@
           {
             "id": "01a1366c-ead2-70cb-b720-0ee52e284f51",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/EFAQ1pDK4Cw0.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -707,7 +699,7 @@
           {
             "id": "01a1366c-ead2-715e-a1c8-b8eb5417cab3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/YJgx3d4psvHK.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -715,7 +707,7 @@
           {
             "id": "01a1366c-ead2-7266-9f5a-8134194f35b4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/qGy2pbHfOsPY.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -723,7 +715,7 @@
           {
             "id": "01a1366c-ead2-72ef-85fc-c735f85703e6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/b4nJeHuh7RAo.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -731,7 +723,7 @@
           {
             "id": "01a1366c-ead2-73a2-8c74-8a13e561ee0d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/qCuGU0xdAVHz.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -739,7 +731,7 @@
           {
             "id": "01a1366c-ead2-74c8-8f64-d4ad7eb95f6c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/nO6P3GBSMUwg.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -747,7 +739,7 @@
           {
             "id": "01a1366c-ead2-75c0-9d90-99326f226ea3",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/u76bpFrQ3fHW.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -755,7 +747,7 @@
           {
             "id": "01a1366c-ead2-7680-9822-96d4fc67aeff",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/nMuhWYOo7cwR.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -763,7 +755,7 @@
           {
             "id": "01a1366c-ead2-76ff-b776-fde8eff0a3a1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/My9DRxq4ACd7.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -771,7 +763,7 @@
           {
             "id": "01a1366c-ead2-77cf-8716-ca1a855e9015",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/14/FTtQDy7Rb1UZ.jpg",
-            "sortOrder": 13,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -779,7 +771,7 @@
           {
             "id": "01a1678b-c714-7110-813b-a29d1afb9a51",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/23/eHLhvcgzNCfS.jpg",
-            "sortOrder": 14,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
